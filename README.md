@@ -1,2 +1,10 @@
-# python_ds_ao_dev
-Repositório para armazenamento dos códigos utilizados durante o curso Python do DS ao DEV da Comunidade DS.
+# Assuntos abordados no curso
+
+* Modelo de negócio e métricas
+* Pensamento analítico
+* Web Scrapping
+* Web Scrapping assíncrono
+* Banco de Dados e SQL
+* Ambiente Virtual de Python
+* Agendamento de Jobs
+* Análise de Dados
