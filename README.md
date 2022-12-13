@@ -86,3 +86,24 @@ rmações do produto, tipo, cor e dias de exposição.
 	- Identificar bloqueios.
 	- Identificar impeditivos que possam desvalidar o projeto.
 	- Entregar valor para a empresa rapidamente.
+
+# Planejamento da solução - o método SAPE
+
+1. Pensar primeiro na saída, no produto final.
+	- A resposta para a pergunta.
+	- Formato da entrega. (um gráfico, uma tabela - quais colunas deve ter?...)
+	- Local da entrega. (um bot do telegram, um dashboard no streamlit? ...)
+
+2. Processo (passo a passo):
+	- Passo a passo para construir o cálculo da mediana ou média.
+	- Definir o formato da entrega (visualização, tabela, frase)
+	- Definir o local de entrega (Power BI, Telegram, Email, Streamlit)
+
+3. Entrada (fonte de dados):
+	- Fonte de dados.
+	- Ferramentas.
+
+
+
+
+
