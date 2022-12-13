@@ -59,4 +59,4 @@ Vendas
 
 ### Mapa de métricas
 
-imagem do mapa
+![mapa_metricas_e_commerce](https://user-images.githubusercontent.com/53352207/207470665-3625d80e-7f5e-4b1a-8b57-a0387a6ac3b1.png)
